@@ -1,0 +1,25 @@
+.jumbotron{
+	background-image: url('../img/web/1.jpg');
+	background-size: cover;
+	height: 640px;
+	margin-top: -75px;
+	margin-bottom: -75px;
+}
+
+
+.card{
+	background-color: #5F5C5E1C;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+/*VERSION DESKTOP*/
+.nav-link{
+	color: red;
+}
